@@ -1,0 +1,12 @@
+version: "1.0"
+info:
+  model: int-scaffold
+services:
+- serviceName: edge.githubproject.integrations:EdgeSanity
+  packages:
+  - name: EdgeGitHubProject
+    version: "1.0"
+- serviceName: pub.math:addInts
+  packages:
+  - name: WmPublic
+    version: 11.0.0.0.323
