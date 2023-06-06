@@ -32,7 +32,7 @@ public final class Default
 		// --- <<IS-START(HelloWorld)>> ---
 		// @sigtype java 3.5
 		IDataMap pMap = new IDataMap(pipeline);
-		pMap.put("message", "Hello, world!");
+		pMap.put("message", "hello, world!");
 		// --- <<IS-END>> ---
 
                 
