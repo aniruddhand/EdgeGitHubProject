@@ -10,3 +10,7 @@ services:
   packages:
   - name: WmPublic
     version: 11.0.0.0.323
+- serviceName: edge.githubproject.javaservices.Default:HelloWorld
+  packages:
+  - name: EdgeGitHubProject
+    version: "1.0"

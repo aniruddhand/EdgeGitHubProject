@@ -30,6 +30,7 @@ public final class Default
 	{
 		// --- <<IS-START(HelloWorld)>> ---
 		// @sigtype java 3.5
+		System.out.println("Hello, world!");
 		// --- <<IS-END>> ---
 
                 
