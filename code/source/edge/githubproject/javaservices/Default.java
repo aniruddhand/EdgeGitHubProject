@@ -7,6 +7,7 @@ import com.wm.util.Values;
 import com.wm.app.b2b.server.Service;
 import com.wm.app.b2b.server.ServiceException;
 // --- <<IS-START-IMPORTS>> ---
+import com.softwareag.util.IDataMap;
 // --- <<IS-END-IMPORTS>> ---
 
 public final class Default
@@ -30,7 +31,8 @@ public final class Default
 	{
 		// --- <<IS-START(HelloWorld)>> ---
 		// @sigtype java 3.5
-		System.out.println("Hello, world!");
+		IDataMap pMap = new IDataMap(pipeline);
+		pMap.put("message", "Hello, world!");
 		// --- <<IS-END>> ---
 
                 
