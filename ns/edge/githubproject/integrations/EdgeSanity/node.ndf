@@ -95,12 +95,11 @@
   <value name="retry_max">0</value>
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
-    <value name="createdBy">wmiointadmin</value>
-    <value name="createdDate">1686031797930</value>
-    <value name="lastModifiedDate">1686031797930</value>
+    <value name="lastModifiedBy">wmiointadmin</value>
+    <value name="lastModifiedDate">1686721186753</value>
     <record name="edgeServer" javaclass="com.wm.util.Values">
-      <value name="id">614790dc018843be844b6d8996373a86</value>
-      <null name="group"/>
+      <value name="id">cd75e874f6e1465c8b4a092b040437fc</value>
+      <value name="group">default</value>
       <value name="name">LocalWSLEdge</value>
     </record>
     <value name="displayName">EdgeSanity</value>
@@ -122,6 +121,7 @@
         <number name="nodeIndex" type="Long">0</number>
         <null name="mapSet"/>
         <null name="outputMapSet"/>
+        <Boolean name="serviceReferenceResolved">true</Boolean>
       </record>
     </record>
   </record>
