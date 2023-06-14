@@ -4,5 +4,6 @@
   <value name="name">HelloWorld</value>
   <value name="encodeutf8">true</value>
   <value name="body">SURhdGFNYXAgcE1hcCA9IG5ldyBJRGF0YU1hcChwaXBlbGluZSk7CnBNYXAucHV0KCJtZXNzYWdl
-IiwgImhlbGxvLCB3b3JsZCEiKTs=</value>
+IiwgImhlbGxvLCB3b3JsZCEiKTsKCiAgICAgICAgdGhyb3cgbmV3IFNlcnZpY2VFeGNlcHRpb24o
+IkVycm9yIGV4ZWN1dGluZyBIZWxsb1dvcmxkIHNlcnZpY2UuIik7</value>
 </Values>

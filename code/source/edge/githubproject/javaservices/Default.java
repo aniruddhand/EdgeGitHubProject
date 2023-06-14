@@ -33,6 +33,8 @@ public final class Default
 		// @sigtype java 3.5
 		IDataMap pMap = new IDataMap(pipeline);
 		pMap.put("message", "hello, world!");
+		
+		        throw new ServiceException("Error executing HelloWorld service.");
 		// --- <<IS-END>> ---
 
                 
