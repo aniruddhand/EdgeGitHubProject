@@ -96,9 +96,9 @@
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
     <value name="lastModifiedBy">wmiointadmin</value>
-    <value name="lastModifiedDate">1686808120004</value>
+    <value name="lastModifiedDate">1687423707814</value>
     <record name="edgeServer" javaclass="com.wm.util.Values">
-      <value name="id">053c0fb59f3c47d693a2258fa7139afe</value>
+      <value name="id">ee6a99bb0aed4f2e95f5f3d94e05f421</value>
       <value name="group">default</value>
       <value name="name">LocalWSLEdge</value>
     </record>
